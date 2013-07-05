@@ -5,7 +5,7 @@ This chat program requires you to have python 2.x installed, python 3.x won't wo
 FIRST: CONFIGURE YOUR PROGRAM!
 1) install win32gui at http://sourceforge.net/projects/pywin32/files/pywin32/Build%20218/
 
-2) install pygame (i installed it via pip)
+2) install pygame (http://www.pygame.org/download.shtml)
 
 3) In client.pyw file, go to line 8, replace 'YOUR EXTERNAL IP ADDRESS HERE' with your external 
 ip address. You can find it on http://www.whatismyip.com/
